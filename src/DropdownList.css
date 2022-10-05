@@ -11,10 +11,8 @@
     height: 3rem;
     font-size: 1.3rem;
     text-align: left;
+    border-bottom: 3px solid rgb(179, 144, 216);
     border-radius: 3px;
-    border-bottom: solid;
-    border-color: rgb(179, 144, 216);
-    border-width: .2rem;
     color: rgb(78, 77, 77);
 }
 
